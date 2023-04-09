@@ -7,13 +7,12 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+___
 ## Описание телеграм - бота
 Телеграм-бот для приюта животных , который отвечает на вопросы людей о том, что нужно знать и уметь, чтобы забрать животных из приюта.
 Телеграмм-бот будет в течение месяца просить новых хозяев присылать ежедневные отчеты о том, как животное приспособляется к новой обстановке.
 ___
 ## Техническое задание проекта:
-
 ___
 ## Команда разработчиков:
 - [Андрей Попов](https://github.com/zalex14)
