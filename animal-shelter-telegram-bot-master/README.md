@@ -2,7 +2,6 @@
 <img src="https://rayfund.ru/wp-content/uploads/2015/05/logo_house.png" width="200" alt="Shelter Logo">
 </p>
 
-
 # Групповая работа с Java. Создание телеграм - бота
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
